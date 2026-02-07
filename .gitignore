@@ -1,0 +1,27 @@
+# =========================
+# Python virtual environment
+# =========================
+venv/
+
+# =========================
+# Raw datasets (large / proprietary)
+# =========================
+online_retail_II.csv
+
+# =========================
+# Internal / interview prep docs
+# =========================
+INTERVIEW_GUIDE.md
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# OS / editor files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
