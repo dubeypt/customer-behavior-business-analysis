@@ -1,0 +1,17 @@
+Copyright (c) 2026 Aditya Dubey
+
+All Rights Reserved.
+
+This repository and its contents are the intellectual property of Aditya Dubey.
+
+No part of this codebase, data pipeline, dashboards, documentation, or visualizations
+may be copied, modified, distributed, published, or used for commercial or
+non-commercial purposes without explicit prior written permission from the author.
+
+This project is shared publicly on GitHub strictly for:
+- Portfolio demonstration
+- Learning reference
+- Interview discussion
+
+Any unauthorized use, reproduction, or distribution of this project
+or its components is strictly prohibited.

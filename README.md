@@ -145,3 +145,13 @@ Power BI Desktop (Free) is used as the **presentation & decision-making layer**.
 - Analytical depth
 - Clean Python workflow
 - Professional Power BI reporting
+
+## 📜 License
+
+This project is proprietary and protected by copyright law.
+
+All rights are reserved by the author.  
+No part of this project may be used, copied, modified, or distributed
+without explicit written permission.
+
+For usage or collaboration requests, please contact the author.
