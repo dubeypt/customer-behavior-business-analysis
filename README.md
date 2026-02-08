@@ -1,21 +1,21 @@
-#  End-to-End Customer Behavior & Business Performance Analysis  
-### Python + Power BI (Free) | Real-World E-Commerce Dataset
+## Power BI Customer Segmentation Dashboard (Churn & Revenue)
 
----
+Problem:
+Businesses don’t know which customers are at risk of churn and which drive revenue.
 
-##  PROJECT OVERVIEW
+Solution:
+Built an interactive Power BI dashboard using RFM segmentation to identify:
+- High-value customers at risk
+- Revenue-driving customer segments
+- Country-wise churn patterns
 
-This is a **complete, end-to-end business analytics project** built using a **real e-commerce dataset**.  
-The project demonstrates how raw transaction data can be transformed into **business insights and executive dashboards** using **Python for analysis** and **Power BI (Free Desktop)** for visualization.
+Tools:
+Power BI | SQL | Python
 
----
+Outcome:
+Helps businesses take targeted actions to reduce churn and increase revenue.
 
-##  TOOLS & TECHNOLOGY USED
 
-- **Python**: pandas, numpy, matplotlib, seaborn  
-- **Power BI Desktop (Free version)**  
-- **SQL-style analysis using Pandas**
-- **GitHub** for version control & portfolio presentation
 
 ---
 
